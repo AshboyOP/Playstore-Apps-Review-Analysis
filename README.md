@@ -8,11 +8,11 @@ Exploratory Data Analysis on Playstore Reviews and User Reviews Data.
 6. Data Exploration. (Head, Tail, Shape)
 7. Descriptive Stats of the data.(df.info, df.describe)
 8. Dropped the Null/NaN values from the data directly.
-9. EDA
-   9.1 Performed Univariate Analysis with Visualizations and drawn useful inferences.
-   9.2 Performed Bivariate Analysis with Visualizations and drawn useful inferences.
-   9.3 Created Confusion Matrix to find the correlation between the features.
-10. Insights and Inferences from the Data.
+# EDA
+   1. Performed Univariate Analysis with Visualizations and drawn useful inferences.
+   2. Performed Bivariate Analysis with Visualizations and drawn useful inferences.
+   3. Created Confusion Matrix to find the correlation between the features.
+# Insights and Inferences from the Data.
    1.  Apps having categories like **FAMILY** and **GAME** are dominating the **Android Market** with aprrox **18.74% Apps** belonging to the **FAMILY** category and **10.84% Apps** belonging to the **GAME** category.
    2. The most reviewed app amongst all is **FACEBOOK** with almost **78.1 Million** reviews.
    3. Apps having **size less** than **40 MB** are covering about **73.17%** of total apps in the **Android Market**.
